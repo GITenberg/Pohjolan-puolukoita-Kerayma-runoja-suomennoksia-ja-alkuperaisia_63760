@@ -1,0 +1,24 @@
+_repo: Pohjolan-puolukoita-Kerayma-runoja-suomennoksia-ja-alkuperaisia_63760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2020-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63760'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry'
+- !lcsh 'Poetry -- Translations into Finnish'
+- !lcc 'PN'
+- GITenberg
+title: 'Pohjolan puolukoita: Keräymä runoja, suomennoksia ja alkuperäisiä'
+url: http://www.gutenberg.org/ebooks/63760
